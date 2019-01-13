@@ -1,6 +1,6 @@
 ---
 title: First Jekyll On Github Project
-timezone: America/Vancouver
+timezone: Europe/Bucharest
 collections:
   posts:
     title: Posts
@@ -22,7 +22,7 @@ defaults:
     layout: page
     show-avatar: true
 url: https://Morganxxx.github.io
-baseurl: ''
+baseurl: 
 description: A virtual proof that name is awesome!
 navbar-links:
   About Me: aboutme
